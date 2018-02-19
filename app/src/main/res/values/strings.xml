@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="Save">Save</string>
+    <string name="Enter_Title">Enter_Title</string>
+    <string name="Enter_Note">Enter_Note</string>
+    <string name="search_notes">Search</string>
+    <string name="search">Note_search</string>
+</resources>
+
+
